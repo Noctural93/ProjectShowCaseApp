@@ -1,0 +1,15 @@
+.header-container {
+  background-color: #cbd5e1;
+  height: 10vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.header-card {
+  padding-left: 90px;
+}
+
+.website-log {
+  width: 140px;
+}

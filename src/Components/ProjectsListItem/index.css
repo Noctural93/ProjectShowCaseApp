@@ -1,0 +1,11 @@
+.project-list-item {
+  margin: 4px 24px 24px 0;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.project-name {
+  padding-left: 22px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #475569;
+}
